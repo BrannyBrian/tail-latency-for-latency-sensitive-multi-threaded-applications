@@ -1,3 +1,7 @@
+WECHAT ID: TutorCS_1351
+Email:brianoluleka@gmail.com
+whatsapp +254790910273
+The souce code is readily available
 # tail-latency-for-latency-sensitive-multi-threaded-applications
 Linux kernel release 4.x http://kernel.org/ modified as part of the project:
 CTS: An Operating System CPU Scheduler to Mitigate Tail latency for Latency-sensitive Multi-threaded Applications
